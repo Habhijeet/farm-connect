@@ -1,0 +1,43 @@
+[
+  {
+    "value": "growingcrops",
+    "label": "Growing crops",
+    "image": "https://www.shutterstock.com/image-photo/farmer-man-harvesting-lima-beans-260nw-272170361.jpg"
+  },
+  {
+    "value": "farmmachinery",
+    "label": "Farm machinery",
+    "image": "https://i.ytimg.com/vi/AzT44wNI-Cs/maxresdefault.jpg"
+  },
+  {
+    "value": "dairy",
+    "label": "dairy",
+    "image": "https://www.shutterstock.com/image-photo/cowboy-sitting-pouring-milk-cow-260nw-1910821777.jpg"
+  },
+  {
+    "value": "Soilpreparation",
+    "label": "Soil preparation",
+    "image": "https://housing.com/news/wp-content/uploads/2023/02/Preparation-of-soil-types-components-and-equipment-used-f.jpg"
+  },
+  {
+    "value": "Sowing",
+    "label": "Sowing",
+    "image": "https://housing.com/news/wp-content/uploads/2022/10/SOWING-FEATURE-compressed.jpg"
+  },
+  {
+    "value": "Irrigation",
+    "label": "Irrigation",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20221228180641/Manual-Irrigation.jpg"
+  },
+  {
+    "value": "Weeding",
+    "label": "Weeding",
+    "image": "https://www.aaaksc.com/wp-content/uploads/2023/05/Why-is-weeding-necessary-1.jpg"
+  },
+  {
+    "value": "Harvesting",
+    "label": "Harvesting",
+    "image": "https://www.newsclick.in/sites/default/files/2020-04/UP_Wheat_Farmers_COVID-19_Lockdown_Impact_1.jpg"
+  }
+ 
+]
